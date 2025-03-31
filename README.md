@@ -6,7 +6,7 @@
 	<a href="form4.html">Form4</a>
 </p>
 <p>
-	<a href="contact.html">Contact</a>
+	<a href="Contact.html">Contact</a>
 </p>
 <p>
 	<a href="form5.html">Form5</a>
